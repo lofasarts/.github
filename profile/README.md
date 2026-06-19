@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://lofasarts.com/"><img src="https://lofasarts.com/img/logo.png" alt="LofasArts Logo"/></a>
+<a href="https://lofasarts.com/"><img src="https://lofasarts.com/img/lofasarts.png" alt="LofasArts Logo"/></a>
 </p>
 <h1 align="center">LofasArts</h1>
 
