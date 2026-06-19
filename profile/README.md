@@ -1,11 +1,10 @@
 <p align="center">
 <a href="https://lofasarts.com/"><img src="https://lofasarts.com/img/lofasarts.png" alt="LofasArts Logo"/></a>
 </p>
-<h1 align="center">LofasArts</h1>
 
-<p>UK-based Software Developer</p>
+<p align="center">UK-based Software Developer</p>
 
-<h2>Projects</h2>
-<h3>
+<h2 align="center">Projects</h2>
+<h3 align="center">
   <a href="https://github.com/TobyLofas/sudo-launcher"> SudoLauncher </a>
 </h3>
